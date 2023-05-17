@@ -1,0 +1,3 @@
+/Users/gabemojica/Projects/SMA-C++-Project/build/CMakeFiles/SMA-C++-Project.dir
+/Users/gabemojica/Projects/SMA-C++-Project/build/CMakeFiles/edit_cache.dir
+/Users/gabemojica/Projects/SMA-C++-Project/build/CMakeFiles/rebuild_cache.dir
